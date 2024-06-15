@@ -1,3 +1,2 @@
-Spearheaded product planning and strategic analysis to implement a platform that provides E-bikes to students at an affordable rate
-Managed the product lifecycle from inception to implementation, creating deliverables such as executive summary, scope, use case, activity flow and class diagram, work breakdown structure and data notations for user class and its attributes using MS Word, Google Sheets and draw.io 
-Monitored project activities, allocated tasks and documented reports to help the leadership team make informed business decisions and facilitate growth to boost operational efficiency by 5%
+•	Managed the E-bikes project planning through Notion, created key deliverables like use case, activity flow, class, and sequence diagrams, alongside work breakdown structures using draw.io.
+•	Optimized project scheduling and resource management with MS Project, reduced delivery timelines by 20%.
